@@ -42,7 +42,8 @@ After running, you will be prompted for:
 - What are the languages known by you? English, Tamil
 - Have you done any certification courses? Yes, Python
 - Mention the skills which you have? Python, SQL
-
+  
+## Output
 - Welcome, Jane with interest in Data Science
 - I'm 21
 - Hobbies: Reading, Travel

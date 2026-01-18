@@ -1,0 +1,46 @@
+PROJECT REQUIREMENTS DOCUMENT
+
+1. Project Overview
+The Personal Intro Script is a command-line Python application designed to collect basic personal information from the user and display it back in a structured form.
+
+Goals:
+- Introduce user input handling
+- Demonstrate formatted output
+- Provide a beginner-friendly programming project
+
+Objectives:
+- Collect user attributes: name, age, hobbies, languages, certifications, and skills
+- Display formatted summary of collected data
+
+2. Setup Instructions
+Prerequisites:
+- Python version above 3.12
+- Terminal or command prompt
+
+Steps:
+1. Download or clone repository
+2. Open terminal in project directory
+3. Run: python personal_intro.py
+
+3. Code Structure
+project-root/
+ ├── personal_intro.py
+ └── README.md (optional)
+
+4. Visual Documentation
+(Refer to screenshot demonstrating runtime execution)
+
+5. Technical Details
+Language: Python 3.x
+Architecture: Linear procedural
+Core Concepts: input(), print(), f-strings, CLI interaction
+No external libraries required
+
+6. Testing Evidence
+Manual test cases verify:
+- Correct display formatting
+- Data matches user input
+- No premature termination
+
+7. Reflection (What I Learned)
+Learned basic I/O, string formatting, procedural flow, and incremental testing.

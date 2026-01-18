@@ -35,20 +35,20 @@ After running, you will be prompted for:
 
 ## Example Interaction
 
-What is your name? Jane
-What is your field of interest? Data Science
-How old are you? 21
-What are your hobbies? Reading, Travel
-What are the languages known by you? English, Tamil
-Have you done any certification courses? Yes, Python
-Mention the skills which you have? Python, SQL
+-What is your name? Jane
+-What is your field of interest? Data Science
+-How old are you? 21
+-What are your hobbies? Reading, Travel
+-What are the languages known by you? English, Tamil
+-Have you done any certification courses? Yes, Python
+-Mention the skills which you have? Python, SQL
 
-Welcome, Jane with interest in Data Science
-I'm 21
-Hobbies: Reading, Travel
-Languages: English, Tamil
-Certification courses: Yes, Python
-Skills: Python, SQL
+-Welcome, Jane with interest in Data Science
+-I'm 21
+-Hobbies: Reading, Travel
+-Languages: English, Tamil
+-Certification courses: Yes, Python
+-Skills: Python, SQL
 
 ## Learning Objectives
 
